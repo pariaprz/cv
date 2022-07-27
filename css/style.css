@@ -1,0 +1,73 @@
+
+/****************************Class Selection******************/
+
+body{
+  background-color:  #D6EFED;
+}
+
+
+hr{
+  border-style:dotted none none ;
+  border-color: #B7D3DF;
+  border-width: 10px;
+  width : 10%;
+}
+
+h1{
+
+  color:#898AA6;
+  text-shadow: 3px 3px 6px #C9BBCF;
+}
+
+h3{
+  color:#898AA6;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+form{
+  text-align: center;
+}
+input{
+  border-radius: 20px;
+  border-style:hidden;
+  height: 20px;
+  margin: 10px 0;
+  text-align: center;
+}
+textarea{
+  border-style:hidden;
+  border-radius: 20px;
+  text-align: center;
+}
+
+/***********************************Tag Selection***************************************/
+
+.list{
+  list-style: none;
+  text-align: center;
+}
+.center{
+  width:93%;
+}
+.style:hover{
+  background-color: #B7D3DF;
+}
+.button{
+  height: 30px;
+  width: 70px;
+}
+.button:hover{
+  background-color: #898AA6;
+}
+.color{
+  color:  #898AA6;
+}
